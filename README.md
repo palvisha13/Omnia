@@ -34,7 +34,7 @@ Omnia is an iOS app that can be downloaded from the App Store on your iPhone or 
 
 ## Troubleshooting 
 
-For any issues with the app during installation or otherwise, feel free to contact us.
+For any issues with the app during installation or otherwise, feel free to [contact us](https://github.com/palvisha13/Omnia/blob/main/README.md#contact-us).
 ## Tech Stack
 
 Omnia was made with love using React Native and Firebase. 
