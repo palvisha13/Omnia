@@ -30,13 +30,15 @@ someone who need a task at the post office completed? You can accept the job and
 ----
 
 ## Installation 
-
+Omnia is an iOS app that can be downloaded from the App Store on your iPhone or iPad.
 
 ## Troubleshooting 
 
-
+For any issues with the app during installation or otherwise, feel free to contact us.
 ## Tech Stack
- 
- 
+
+Omnia was made with love using React Native and Firebase. 
+:heart:
+
  ## Contact us:
  
